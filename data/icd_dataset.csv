@@ -1,0 +1,27 @@
+Diagnosis,ICD_Code
+Diabetes,E11.9
+Hypertension,I10
+Asthma,J45.909
+Pneumonia,J18.9
+COVID-19,U07.1
+Diagnosis,ICD_Code
+Diabetes,E11.9
+Hypertension,I10
+Asthma,J45.909
+Pneumonia,J18.9
+COVID-19,U07.1
+Migraine,G43.909
+Chronic Kidney Disease,N18.9
+Heart Failure,I50.9
+Anemia,D64.9
+Tuberculosis,A15.0
+Diagnosis,ICD_Code
+Migraine,G43.909
+Chronic Kidney Disease,N18.9
+Heart Failure,I50.9
+Anemia,D64.9
+Tuberculosis,A15.0
+Stroke,I63.9
+Depression,F32.9
+
+

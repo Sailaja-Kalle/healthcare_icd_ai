@@ -3,7 +3,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
 # Load dataset
-df = pd.read_csv("../data/icd_dataset.csv", encoding="utf-8")
+df = pd.read_csv("data/icd_dataset.csv", encoding="utf-8")
+
 
 print("Dataset loaded:")
 print(df)
